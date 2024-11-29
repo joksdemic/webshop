@@ -3,7 +3,6 @@
 <?php loadPartial('head'); ?>
 <?php loadPartial('navbar'); ?>
 
-
 <?php loadPartial('scroll'); ?>
 <?php loadPartial('footer'); ?>
 <script src="./public/js/script.js"></script>

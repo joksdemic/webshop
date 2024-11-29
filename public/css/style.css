@@ -535,3 +535,58 @@ background-image: url("../assets/category/podpazusna.jpg");
   transform: translateX(10px);
   cursor: pointer;
 }
+
+/*WHEELCHAIRS1 */
+.wheelchairs-h1 h1 {
+  margin: 20px;
+  font-weight: 300;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.wheelchairs1 {
+  display: grid;
+  grid-template-columns: repeat(3, 300px); 
+  gap: 20px; 
+  justify-content: center;
+  margin: 20px;
+}
+
+.wheelchairs1-content {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  text-align: center; 
+  box-sizing: border-box;
+}
+
+.wheelchairs1-content img {
+  width: 300px; 
+  height: 300px; 
+  object-fit: cover; 
+  margin-bottom: 10px;
+}
+
+.name {
+  font-size: 16px;
+  margin-bottom: 10px; 
+}
+
+.price {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 10px; 
+}
+
+.buy {
+  padding: 10px 20px;
+  background-color: #d6e1e3;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.buy:hover {
+  background-color: #0056b3; 
+}
+

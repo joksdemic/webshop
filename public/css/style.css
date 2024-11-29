@@ -197,3 +197,183 @@ body {
 .footer-copyright img {
     margin-right: 10px;
 }
+
+
+/*SHOP*/
+.subcategory-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 5px auto;
+}
+
+.subcategory-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.subcategory-section h1 {
+  flex: 0 0 250px; 
+  font-size: 40px;
+  color: #d6e1e3;
+  margin: 0 40px 0 0; 
+}
+
+.subcategory {
+  flex: 1 1 400px; 
+  height: 300px;
+  color: black;
+  border: solid #d6e1e3 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  margin: 20px 30px 15px 0;
+  box-sizing: border-box;
+}
+
+.subcategory p {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  font-size: 20px;
+  padding-top: 30px;
+}
+
+.subcategory::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background-color: #d6e1e3;
+  z-index: 0;
+}
+
+.subcategory a {
+  text-decoration: none;
+  color: black;
+}
+
+.subcategory a:hover {
+  cursor: pointer;
+  font-weight: 900;
+}
+
+#kolica-mehanicka {
+  background-image: url("../assets/category/mehanicka.png");
+}
+
+#kolica-elektromotorna {
+  background-image: url("../assets/category/elektromotorna.jpg");
+}
+
+#kolica-aktivna {
+  background-image: url("../assets/category/aktivna.jpg");
+}
+
+#hodalica {
+  background-image: url("../assets/category/category2.jpg");
+}
+
+#hodalica-zglobna {
+  background-image: url("../assets/category/zglobna.jpg");
+}
+
+#hodalica-rolator {
+  background-image: url("../assets/category/rolator.jpeg");
+}
+
+#hodalica-podlakatna {
+  background-image: url("../assets/category/podlakatna.jpg");
+}
+
+#stake-podlakatne {
+  background-image: url("../assets/category/podlakatnastaka1.jpg");
+}
+
+#stake-podpazusne {
+background-image: url("../assets/category/podpazusna.jpg");
+}
+
+#stap {
+  background-image: url("../assets/category/stap.jpg");
+}
+
+#stap3 {
+  background-image: url("../assets/category/stap3.jpg");
+}
+
+#stap4 {
+  background-image: url("../assets/category/stap4.jpg");
+}
+
+#elektricni-krevet {
+  background-image: url("../assets/category/elektricni-krevet.jpg");
+}
+
+#bolnicki-krevet {
+  background-image: url("../assets/category/bolnicki-krevet.jpg");
+}
+
+#kucna-nega-krevet {
+  background-image: url("../assets/category/kucna-nega-krevet.PNG");
+}
+
+#elektricna-dizalica {
+  background-image: url("../assets/category/elektricna-dizalica.jpg");
+}
+
+#hidraulicna-dizalica {
+  background-image: url("../assets/category/hidraulicna-dizalica.jpg");
+}
+
+#dizalica-korpa {
+  background-image: url("../assets/category/dizalica-korpa.jpg");
+}
+
+
+
+/*SCROLL*/
+.scroll-up,
+.scroll-down {
+  position: fixed;
+  background-color: #d6e1e3; 
+  color: white;
+  border: none; 
+  border-radius: 50%; 
+  width: 50px; 
+  height: 50px; 
+  font-size: 24px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  transition: background-color 0.3s ease; 
+}
+
+.scroll-up {
+  bottom: 140px; 
+  right: 5px; 
+}
+
+.scroll-down {
+  bottom: 80px; 
+  right: 5px;
+}
+
+.scroll-up:hover,
+.scroll-down:hover {
+  background-color: #f1f1f7; 
+}
+

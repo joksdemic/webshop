@@ -54,7 +54,32 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
+//SCROLL UP
+function scrollToTop() {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+}
 
+//SCROLL DOWN
+function scrollToBottom() {
+    window.scrollTo({
+        top: document.body.scrollHeight,
+        behavior: 'smooth'
+    });
+}
+
+const scrollUpButton = document.querySelector('.scroll-up');
+const scrollDownButton = document.querySelector('.scroll-down');
+
+    if (scrollUpButton) {
+        scrollUpButton.addEventListener('click', scrollToTop);
+    }
+
+    if (scrollDownButton) {
+        scrollDownButton.addEventListener('click', scrollToBottom);
+    }
 
 
 

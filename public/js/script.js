@@ -81,6 +81,23 @@ const scrollDownButton = document.querySelector('.scroll-down');
         scrollDownButton.addEventListener('click', scrollToBottom);
     }
 
+//ASSORTMENT PREVIEW
+const contentBoxes = document.querySelectorAll('.content-box');
+    contentBoxes.forEach(box => {
+        const images = box.querySelectorAll('img');
+        if (images.length > 0) {
+            let currentImageIndex = 0;
+
+            function changeImage() {
+                images.forEach(img => img.style.opacity = 0);
+                currentImageIndex = (currentImageIndex + 1) % images.length;
+                images[currentImageIndex].style.opacity = 1;
+            }
+
+            setInterval(changeImage, 3000);
+        }
+    });
+
 
 
 

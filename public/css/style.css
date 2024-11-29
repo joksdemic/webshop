@@ -590,3 +590,78 @@ background-image: url("../assets/category/podpazusna01.jpg");
   background-color: #0056b3; 
 }
 
+/*CART*/
+.container-cart {
+  height: 380px;
+  margin: 69px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 0 5%;  
+  background-image: url("../assets/cart.jpg");
+}
+
+.container-cart h2 {
+  padding-top: 20px;
+  color: black;
+  text-align: center;
+}
+
+.table {
+  border-collapse: collapse; 
+  width: 98%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+.table th, .table td {
+  border: 1px solid #dee2e6;
+  padding: 15px;
+  text-align: center;
+}
+
+.table th {
+  background-color: #dee2e6;
+  color: #fff;
+}
+
+.table td {
+  background-color: white;
+}
+
+.highlight {
+  background-color: #d6e1e3;
+}
+
+#price, #total {
+  width: 20%;
+}
+
+#quantity {
+  width: 10%;
+}
+
+.text-right {
+  text-align: center;
+}
+
+.text-right .btn {
+  background-color: #d6e1e3;
+  color: #fff;
+  border: none;
+  padding: 15px 20px;
+  margin-right: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.text-right .btn a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.text-right .btn:hover {
+  background-color: #dee2e6;
+}
+

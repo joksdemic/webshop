@@ -98,3 +98,70 @@ body {
     right: 10px;
 }
   
+/*ABOUT*/
+.about h3{
+    margin-top: 20px;
+    color: black;
+    font-weight: lighter;
+}
+
+/*ASSORTMENT*/
+.index-content {
+    text-align: center;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+.index-content h1 {
+    width: 100%;
+    margin: 10px;
+    font-weight: 700;
+    text-align: center;
+    color: #d6e1e3;
+    animation: blinkText 1s infinite;
+}
+  
+@keyframes blinkText {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+}
+  
+.content-box {
+    position: relative;
+    height: 450px;
+    width: 300px;
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+  
+.content-box:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+  
+.content-box img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0; 
+    transition: opacity 1s ease-in-out; 
+}
+  
+.content-box img:first-child {
+    opacity: 1; 
+}
+  

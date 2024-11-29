@@ -377,3 +377,49 @@ background-image: url("../assets/category/podpazusna.jpg");
   background-color: #f1f1f7; 
 }
 
+
+/*ABOUT US*/
+.aboutus-content {
+  background-image: url("../assets/aboutus.jpg");
+  height: 600px;
+}
+
+.aboutus-content h3 {
+  overflow: hidden;
+  display: ruby-base;
+  animation: masked 4s steps(30) forwards;
+  font-weight: lighter;
+  padding: 20px;
+  max-width: 800px;
+  max-height: 300px;
+  text-decoration: underline;
+  text-decoration-color: #d6e1e3; 
+  text-decoration-thickness: 3px;
+}
+
+@keyframes masked {
+  to {
+    width: 100%;
+  }
+}
+
+.aboutus-content2 p {
+  font-size: 20px;
+  padding: 30px;
+  font-weight: lighter;
+  
+  animation: shadowColor 2s infinite;
+}
+
+@keyframes shadowColor {
+  0% {
+    text-shadow: 0 0 10px rgb(101, 145, 186), 0 0 20px rgb(56, 191, 193), 0 0 30px rgb(58, 157, 174);
+  }
+  50% {
+    text-shadow: 0 0 10px rgb(89, 119, 137), 0 0 20px rgb(80, 176, 224), 0 0 30px rgb(75, 98, 103);
+  }
+  100% {
+    text-shadow: 0 0 10px rgb(94, 142, 161), 0 0 20px rgb(80, 194, 223), 0 0 30px rgb(71, 126, 166);
+  }
+}
+

@@ -4,6 +4,7 @@
 <?php loadPartial('navbar'); ?>
 
 
+
 <div class="aboutus-content">
     <h3 id="animated-text">Preduzeće “Orthopedist” se bavi uvozom, prodajom na malo, veliko, kao i internet prodajom i 
                            servisiranjem ortopedskih pomagala. Naši proizvodi  su namenjeni ljudima svih uzrasta koji su se
@@ -35,7 +36,6 @@
         aparati za plućne bolesnike MOBIAK iz Grčke i INVACARE iz SAD.
     </p>
 </div>
-
 
 <?php loadPartial('footer'); ?>
 <script src="public/js/script.js"></script>

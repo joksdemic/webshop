@@ -165,3 +165,36 @@ body {
     opacity: 1; 
 }
   
+
+/*FOOTER*/
+.footer {
+    background: linear-gradient(to top left, #d6e1e3, #f1f1f7);
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 40px;
+    box-sizing: border-box;
+}
+  
+.footer-icons,
+.footer-copyright {
+    display: flex;
+    align-items: center;
+}
+  
+.footer-icons p,
+.footer-copyright p {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    padding-right: 20px;
+}
+  
+.footer-icons img,
+.footer-copyright img {
+    margin-right: 10px;
+}
+  

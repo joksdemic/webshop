@@ -59,3 +59,42 @@ body {
 .cart {
   margin-left: auto; 
 }
+
+/*SLIDER*/
+.slider {
+    width: 100%;
+    max-width: 1280px;
+    height: 600px;
+    overflow: hidden;
+}
+  
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+  
+.slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+  
+.slide img {
+    width: 100%;
+    display: block;
+}
+  
+.previous,
+.next {
+    position: absolute;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(to top left,rgba(214, 225, 227, 0.8),rgba(241, 241, 247, 0.8));
+    border: none;
+    cursor: pointer;
+}
+  
+.next {
+    right: 10px;
+}
+  

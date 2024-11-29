@@ -53,3 +53,10 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error("Slides not found in the DOM.");
     }
 });
+
+
+
+
+
+
+

@@ -3,7 +3,7 @@
 <?php loadPartial('head'); ?>
 <?php loadPartial('navbar'); ?>
 
-<div class="wheelchairs-h1"><h1>Podlaktne hodalice</h1></div>
+<div class="wheelchairs-h1"><h1>Podlakatne hodalice</h1></div>
 <div class="wheelchairs1">
 
     <div class="wheelchairs1-content" data-product-id="52">

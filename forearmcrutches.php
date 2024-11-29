@@ -7,7 +7,7 @@
 
 <div class="wheelchairs1">
     <div class="wheelchairs1-content" data-product-id="61">
-        <img src="./public/assets/forearmcrutches/forearmcrutches1.webp" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches1.webp" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">1.950,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -19,7 +19,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="62">
-        <img src="./public/assets/forearmcrutches/forearmcrutches2.webp" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches2.webp" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">1.100,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -31,7 +31,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="63">
-        <img src="./public/assets/forearmcrutches/forearmcrutches3.jpg" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches3.jpg" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">2.590,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -43,7 +43,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="64">
-        <img src="./public/assets/forearmcrutches/forearmcrutches4.jpg" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches4.jpg" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">1.150,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -55,7 +55,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="65">
-        <img src="./public/assets/forearmcrutches/forearmcrutches5.jpg" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches5.jpg" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">2.700,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -67,7 +67,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="66">
-        <img src="./public/assets/forearmcrutches/forearmcrutches6.png" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches6.png" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">2.300,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -79,7 +79,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="67">
-        <img src="./public/assets/forearmcrutches/forearmcrutches7.webp" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches7.webp" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">2.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -91,7 +91,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="68">
-        <img src="./public/assets/forearmcrutches/forearmcrutches8.jpg" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches8.jpg" alt="">
         <div class="name">PODLAKATNE ŠTAKE ALUMINIJUMSKE</div>
         <div class="price">2.400,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -103,7 +103,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="69">
-        <img src="./public/assets/forearmcrutches/forearmcrutches9.jpg" alt="">
+        <img src="./public/assets/crutches/forearmcrutches/forearmcrutches9.jpg" alt="">
         <div class="name">PODLAKATNE ŠTAKE DEČIJE</div>
         <div class="price">1.790,00 rsd.</div>
         <form method="post" action="cart.php">

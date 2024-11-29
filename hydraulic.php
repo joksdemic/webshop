@@ -8,7 +8,7 @@
 <div class="wheelchairs1">
 
     <div class="wheelchairs1-content" data-product-id="142">
-        <img src="./public/assets/hydraulic/hydraulic1.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic1.jpg" alt="">
         <div class="name">DIZALICA HIDRAULIČNA SA KORPOM</div>
         <div class="price">89.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -20,7 +20,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="143">
-        <img src="./public/assets/hydraulic/hydraulic2.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic2.jpg" alt="">
         <div class="name">DIZALICA HIDRAULIČNA SA KORPOM</div>
         <div class="price">99.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -32,7 +32,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="144">
-        <img src="./public/assets/hydraulic/hydraulic03.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic03.jpg" alt="">
         <div class="name">DIZALICA HIDRAULIČNA SA KORPOM ANTANO</div>
         <div class="price">77.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -44,7 +44,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="145">
-        <img src="./public/assets/hydraulic/hydraulic4.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic4.jpg" alt="">
         <div class="name">HIDRAULIČNA DIZALICA BLUE</div>
         <div class="price">76.150,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -56,7 +56,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="146">
-        <img src="./public/assets/hydraulic/hydraulic5.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic5.jpg" alt="">
         <div class="name">HIDRAULIČNA DIZALICA MORETTI</div>
         <div class="price">83.700,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -68,7 +68,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="147">
-        <img src="./public/assets/hydraulic/hydraulic6.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic6.jpg" alt="">
         <div class="name">HIDRAULIČNA DIZALICA SA KORPOM</div>
         <div class="price">94.300,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -80,7 +80,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="148">
-        <img src="./public/assets/hydraulic/hydraulic7.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic7.jpg" alt="">
         <div class="name">HIDRAULIČNA DIZALICA MEDLINE 300</div>
         <div class="price">92.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -92,7 +92,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="149">
-        <img src="./public/assets/hydraulic/hydraulic8.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic8.jpg" alt="">
         <div class="name">HIDRAULIČNA DIZALICA MEDLINE 400</div>
         <div class="price">94.400,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -104,7 +104,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="150">
-        <img src="./public/assets/hydraulic/hydraulic9.jpg" alt="">
+        <img src="./public/assets/hoists/hydraulic/hydraulic9.jpg" alt="">
         <div class="name">HIDRAULIČNA DIZALICA MDS88200D</div>
         <div class="price">95.790,00 rsd.</div>
         <form method="post" action="cart.php">

@@ -8,7 +8,7 @@
 <div class="wheelchairs1">
 
     <div class="wheelchairs1-content" data-product-id="124">
-        <img src="./public/assets/homecare/homecare1.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare1.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU SAVION H-14</div>
         <div class="price">118.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -20,7 +20,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="125">
-        <img src="./public/assets/homecare/homecare2.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare2.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU DALI II</div>
         <div class="price">138.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -32,7 +32,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="126">
-        <img src="./public/assets/homecare/homecare03.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare03.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU IC555</div>
         <div class="price">322.590,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -44,7 +44,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="127">
-        <img src="./public/assets/homecare/homecare4.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare4.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU DIVA</div>
         <div class="price">186.150,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -56,7 +56,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="128">
-        <img src="./public/assets/homecare/homecare5.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare5.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU C-11</div>
         <div class="price">243.700,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -68,7 +68,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="129">
-        <img src="./public/assets/homecare/homecare6.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare6.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU C-1102</div>
         <div class="price">221.300,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -80,7 +80,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="130">
-        <img src="./public/assets/homecare/homecare7.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare7.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU H-2150</div>
         <div class="price">242.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -92,7 +92,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="131">
-        <img src="./public/assets/homecare/homecare8.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare8.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU INT-1000</div>
         <div class="price">124.400,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -104,7 +104,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="132">
-        <img src="./public/assets/homecare/homecare9.jpg" alt="">
+        <img src="./public/assets/beds/homecare/homecare9.jpg" alt="">
         <div class="name">KREVET ZA KUĆNU NEGU TEIDE</div>
         <div class="price">135.790,00 rsd.</div>
         <form method="post" action="cart.php">

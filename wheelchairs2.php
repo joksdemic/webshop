@@ -7,7 +7,7 @@
 
 <div class="wheelchairs1">
     <div class="wheelchairs1-content" data-product-id="13">
-        <img src="./public/assets/wheelchairs2/1e.jpg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/1e.jpg" alt="">
         <div class="name">KOLICA EL. VIA 6 KM/H</div>
         <div class="price">308.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -19,7 +19,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="14">
-        <img src="./public/assets/wheelchairs2/02e.jpg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/02e.jpg" alt="">
         <div class="name">KOLICA EL. EJOY RD, 6 KM/H</div>
         <div class="price">352.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -31,7 +31,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="15">
-        <img src="./public/assets/wheelchairs2/3e.png" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/3e.png" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA FS 101A</div>
         <div class="price">275.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -43,7 +43,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="16">
-        <img src="./public/assets/wheelchairs2/4e.jpg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/4e.jpg" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA FS 123</div>
         <div class="price">275.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -55,7 +55,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="17">
-        <img src="./public/assets/wheelchairs2/5e.png" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/5e.png" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA TITAN</div>
         <div class="price">275.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -67,7 +67,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="18">
-        <img src="./public/assets/wheelchairs2/6e.jpg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/6e.jpg" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA FS 123 GC</div>
         <div class="price">275.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -79,7 +79,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="19">
-        <img src="./public/assets/wheelchairs2/7e.jpg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/7e.jpg" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA FS 110A</div>
         <div class="price">275.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -91,7 +91,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="20">
-        <img src="./public/assets/wheelchairs2/8e.jpeg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/8e.jpeg" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA FOSHAN MEDICAL FS-123-GC</div>
         <div class="price">305.250,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -103,7 +103,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="21">
-        <img src="./public/assets/wheelchairs2/9e.jpeg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs2/9e.jpeg" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA SURFACE S.P.A. 715</div>
         <div class="price">270.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -115,7 +115,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="22">
-    <img src="./public/assets/wheelchairs1/10.jpg" alt="">
+    <img src="./public/assets/wheelchairs/wheelchairs1/10.jpg" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA FS 101</div>
         <div class="price">240.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -127,7 +127,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="23">
-         <img src="./public/assets/wheelchairs1/11.png" alt="">
+         <img src="./public/assets/wheelchairs/wheelchairs1/11.png" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA MB 202</div>
         <div class="price">320.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -139,7 +139,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="24">
-    <img src="./public/assets/wheelchairs1/12.jpg" alt="">
+    <img src="./public/assets/wheelchairs/wheelchairs1/12.jpg" alt="">
         <div class="name">INVALIDSKA KOLICA ELEKTROMOTORNA VIVA</div>
         <div class="price">350.000,00 rsd.</div>
         <form method="post" action="cart.php">

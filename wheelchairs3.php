@@ -7,7 +7,7 @@
 
 <div class="wheelchairs1">
     <div class="wheelchairs1-content" data-product-id="25">
-        <img src="./public/assets/wheelchairs3/1a.jpg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/1a.jpg" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA Escape TT/TS</div>
         <div class="price">27.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -19,7 +19,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="26">
-        <img src="./public/assets/wheelchairs3/2a.webp" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/2a.webp" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA Avanti 1736</div>
         <div class="price">32.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -31,7 +31,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="27">
-        <img src="./public/assets/wheelchairs3/3a.PNG" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/3a.PNG" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA SAGGITTA</div>
         <div class="price">35.000,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -43,7 +43,7 @@
     </div>
     
     <div class="wheelchairs1-content" data-product-id="28">
-        <img src="./public/assets/wheelchairs3/4a.webp" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/4a.webp" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA FLASH 1135</div>
         <div class="price">24.400,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -55,7 +55,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="29">
-        <img src="./public/assets/wheelchairs3/5a.webp" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/5a.webp" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA HURRICANE 1880</div>
         <div class="price">27.150,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -67,7 +67,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="30">
-        <img src="./public/assets/wheelchairs3/6a.webp" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/6a.webp" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA SMART F 2360</div>
         <div class="price">33.250,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -79,7 +79,7 @@
     </div>
     
     <div class="wheelchairs1-content" data-product-id="31">
-        <img src="./public/assets/wheelchairs3/7a.webp" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/7a.webp" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA SMART S 2370</div>
         <div class="price">28.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -91,7 +91,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="32">
-        <img src="./public/assets/wheelchairs3/8a.webp" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/8a.webp" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA PANTHERA X</div>
         <div class="price">35.250,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -103,7 +103,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="33">
-        <img src="./public/assets/wheelchairs3/09a.jpg" alt="">
+        <img src="./public/assets/wheelchairs/wheelchairs3/09a.jpg" alt="">
         <div class="name">AKTIVNA MEHANIČKA KOLICA PANTHERA U3</div>
         <div class="price">27.000,00 rsd.</div>
         <form method="post" action="cart.php">

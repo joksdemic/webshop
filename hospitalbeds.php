@@ -8,7 +8,7 @@
 <div class="wheelchairs1">
 
     <div class="wheelchairs1-content" data-product-id="115">
-        <img src="./public/assets/hospitalbeds/hospitalbed.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed.jpg" alt="">
         <div class="name">KREVET BOLNIČKI EUCLIDE (BEZ TOČKOVA)</div>
         <div class="price">118.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -20,7 +20,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="116">
-        <img src="./public/assets/hospitalbeds/hospitalbed02.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed02.jpg" alt="">
         <div class="name">KREVET BOLNIČKI JASMIN</div>
         <div class="price">138.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -32,7 +32,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="117">
-        <img src="./public/assets/hospitalbeds/hospitalbed03.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed03.jpg" alt="">
         <div class="name">KREVET BOLNIČKI MEHANIČKI K008 A</div>
         <div class="price">322.590,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -44,7 +44,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="118">
-        <img src="./public/assets/hospitalbeds/hospitalbed4.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed4.jpg" alt="">
         <div class="name">KREVET BOLNIČKI MEHANIČKI K008 B</div>
         <div class="price">186.150,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -56,7 +56,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="119">
-        <img src="./public/assets/hospitalbeds/hospitalbed05.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed05.jpg" alt="">
         <div class="name">KREVET BOLNIČKI TEA</div>
         <div class="price">243.700,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -68,7 +68,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="120">
-        <img src="./public/assets/hospitalbeds/hospitalbed06.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed06.jpg" alt="">
         <div class="name">KREVET BOLNIČKI H32</div>
         <div class="price">221.300,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -80,7 +80,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="121">
-        <img src="./public/assets/hospitalbeds/hospitalbed07.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed07.jpg" alt="">
         <div class="name">KREVET BOLNIČKI TOMA</div>
         <div class="price">242.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -92,7 +92,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="122">
-        <img src="./public/assets/hospitalbeds/hospitalbed08.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed08.jpg" alt="">
         <div class="name">KREVET BOLNIČKI</div>
         <div class="price">124.400,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -104,7 +104,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="123">
-        <img src="./public/assets/hospitalbeds/hospitalbed09.jpg" alt="">
+        <img src="./public/assets/beds/hospitalbeds/hospitalbed09.jpg" alt="">
         <div class="name">KREVET BOLNIČKI</div>
         <div class="price">135.790,00 rsd.</div>
         <form method="post" action="cart.php">

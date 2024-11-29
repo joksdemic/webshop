@@ -9,7 +9,7 @@
     <div class="wheelchairs1">
 
         <div class="wheelchairs1-content" data-product-id="1">
-            <img src="./public/assets/wheelchairs1/1.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/1.jpg" alt="">
             <div class="name">KOLICA MEHANIČKA EASY QUICK</div>
             <div class="price">30.250,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -22,7 +22,7 @@
         </div>
 
         <div class="wheelchairs1-content" data-product-id="2">
-            <img src="./public/assets/wheelchairs1/2.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/2.jpg" alt="">
             <div class="name">KOLICA MEHANIČKA CONCEPT II</div>
             <div class="price">58.300,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -35,7 +35,7 @@
 
  
         <div class="wheelchairs1-content" data-product-id="3">
-            <img src="./public/assets/wheelchairs1/3.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/3.jpg" alt="">
             <div class="name">KOLICA MEHANIČKA LIGHT TOP</div>
             <div class="price">28.000,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -48,7 +48,7 @@
 
    
         <div class="wheelchairs1-content" data-product-id="4">
-            <img src="./public/assets/wheelchairs1/4.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/4.jpg" alt="">
             <div class="name">KOLICA MEHANIČKA ULTRA LIGHT</div>
             <div class="price">32.000,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -60,7 +60,7 @@
         </div>
 
         <div class="wheelchairs1-content" data-product-id="5">
-            <img src="./public/assets/wheelchairs1/5.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/5.jpg" alt="">
             <div class="name">KOLICA MEHANIČKA COMFORT</div>
             <div class="price">30.000,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -73,7 +73,7 @@
 
    
         <div class="wheelchairs1-content" data-product-id="6">
-            <img src="./public/assets/wheelchairs1/6.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/6.jpg" alt="">
             <div class="name">KOLICA MEHANIČKA COMPACT</div>
             <div class="price">29.000,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -85,7 +85,7 @@
         </div>
 
         <div class="wheelchairs1-content" data-product-id="7">
-            <img src="./public/assets/wheelchairs1/7.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/7.jpg" alt="">
             <div class="name">KOLICA MEHANIČKA ACTIVE</div>
             <div class="price">35.000,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -97,7 +97,7 @@
         </div>
     
         <div class="wheelchairs1-content" data-product-id="8">
-            <img src="./public/assets/wheelchairs1/08.png" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/08.png" alt="">
             <div class="name">KOLICA MEHANIČKA PRO</div>
             <div class="price">40.000,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -109,7 +109,7 @@
         </div>
  
         <div class="wheelchairs1-content" data-product-id="9">
-            <img src="./public/assets/wheelchairs1/9.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/9.jpg" alt="">
             <div class="name">INVALIDSKA KOLICA MEHANIČKA GOLDEN MOBIAK</div>
             <div class="price">35.250,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -121,7 +121,7 @@
         </div>
 
         <div class="wheelchairs1-content" data-product-id="10">
-            <img src="./public/assets/wheelchairs1/10.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/10.jpg" alt="">
             <div class="name">INVALIDSKA KOLICA MEHANIČKA ACTION 3</div>
             <div class="price">30.250,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -133,7 +133,7 @@
         </div>
 
         <div class="wheelchairs1-content" data-product-id="11">
-            <img src="./public/assets/wheelchairs1/11.png" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/11.png" alt="">
             <div class="name">INVALIDSKA KOLICA MEHANIČKA FS 903 LQ</div>
             <div class="price">31.050,00 rsd.</div>
             <form method="post" action="cart.php">
@@ -145,7 +145,7 @@
         </div>
 
         <div class="wheelchairs1-content" data-product-id="12">
-            <img src="./public/assets/wheelchairs1/12.jpg" alt="">
+            <img src="./public/assets/wheelchairs/wheelchairs1/12.jpg" alt="">
             <div class="name">INVALIDSKA KOLICA MEHANIČKA ACTION 5</div>
             <div class="price">33.350,00 rsd.</div>
             <form method="post" action="cart.php">

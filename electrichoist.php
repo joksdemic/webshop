@@ -8,7 +8,7 @@
 <div class="wheelchairs1">
 
     <div class="wheelchairs1-content" data-product-id="133">
-        <img src="./public/assets/electrichoist/electrichoist1.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist1.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA JOZ</div>
         <div class="price">111.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -20,7 +20,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="134">
-        <img src="./public/assets/electrichoist/electrichoist2.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist2.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA DOLI</div>
         <div class="price">123.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -32,7 +32,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="135">
-        <img src="./public/assets/electrichoist/electrichoist3.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist3.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA SOLI</div>
         <div class="price">133.590,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -44,7 +44,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="136">
-        <img src="./public/assets/electrichoist/electrichoist4.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist4.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA H43-4</div>
         <div class="price">146.150,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -56,7 +56,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="137">
-        <img src="./public/assets/electrichoist/electrichoist5.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist5.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA H53-4</div>
         <div class="price">123.700,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -68,7 +68,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="138">
-        <img src="./public/assets/electrichoist/electrichoist6.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist6.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA D54</div>
         <div class="price">132.300,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -80,7 +80,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="139">
-        <img src="./public/assets/electrichoist/electrichoist7.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist7.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA D24</div>
         <div class="price">125.500,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -92,7 +92,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="140">
-        <img src="./public/assets/electrichoist/electrichoist8.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist8.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA YOYO</div>
         <div class="price">134.400,00 rsd.</div>
         <form method="post" action="cart.php">
@@ -104,7 +104,7 @@
     </div>
 
     <div class="wheelchairs1-content" data-product-id="141">
-        <img src="./public/assets/electrichoist/electrichoist9.jpg" alt="">
+        <img src="./public/assets/hoists/electrichoist/electrichoist9.jpg" alt="">
         <div class="name">ELEKTRIČNA DIZALICA ZOY</div>
         <div class="price">215.790,00 rsd.</div>
         <form method="post" action="cart.php">

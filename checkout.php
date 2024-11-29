@@ -93,6 +93,114 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 ?>
 
+
+<div class="container-checkout">
+
+    <div class="total-price">
+        <h3><mark class="hig">Ukupan iznos za plaćanje: <?php echo number_format($totalPrice, 2); ?> RSD</mark></h3>
+    </div>
+
+    <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+        
+        <div class="row">
+
+            <div class="col-md-6">
+                <label class="name">Ime*</label>
+                <input class="form-control" type="text" id="name" name="name" value="<?php echo $name; ?>">
+                <span class="error"><?php echo $name_err; ?></span>
+            </div>
+
+            <div class="col-md-6">
+                <label>Prezime*</label>
+                <input class="form-control" type="text" name="lastname" value="<?php echo $lastname; ?>">
+                <span class="error"><?php echo $lastname_err; ?></span>
+            </div>
+
+            <div class="col-md-6">
+                <label>Email*</label>
+                <input class="form-control" type="text" name="email" value="<?php echo $email; ?>">
+                <span class="error"><?php echo $email_err; ?></span>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-6">
+                <label>Država*</label>
+                <select class="form-control" name="country">
+                    <option value="">Izaberite državu</option>
+                    <option value="AF">Afganistan</option>
+                    <option value="AL">Albanija</option>
+                    <option value="DZ">Alžir</option>
+                </select>
+                <span class="error"><?php echo $country_err; ?></span>
+            </div>
+
+            <div class="col-md-6">
+                <label>Grad*</label>
+                <input class="form-control" type="text" name="city" value="<?php echo $city; ?>">
+                <span class="error"><?php echo $city_err; ?></span>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-6" id="postal">
+                <label>Poštanski broj*</label>
+                <input class="form-control" type="text" name="zip" value="<?php echo $zip; ?>">
+                <span class="error"><?php echo $zip_err; ?></span>
+
+            </div>
+
+            <div class="col-md-6" id="adress">
+
+                <label>Adresa*</label>
+                <input class="form-control" type="text" name="address" value="<?php echo $address; ?>">
+                <span class="error"><?php echo $address_err; ?></span>
+
+            </div>
+
+            <div class="col-md-6" id="flat">
+                <label>Broj stana</label>
+                <input class="form-control" type="text" name="flat" value="<?php echo $flat; ?>">
+                <span class="error"><?php echo $flat_err; ?></span>
+            
+            </div>
+
+        </div>
+
+        <div class="payment-method mt-5">
+
+            <div class="row d-flex">
+
+                <div class="col-md-4">
+                    <input name="payment" id="radio1" class="mr-2 css-checkbox" type="radio" value="cash" <?php echo ($payment == 'cash') ? 'checked' : ''; ?>> <span>Plaćanje pouzećem</span>
+                </div>
+
+                <div class="col-md-4">
+                    <input name="payment" id="radio2" class="mr-2 css-checkbox" type="radio" value="paypal" <?php echo ($payment == 'paypal') ? 'checked' : ''; ?>> <span>PayPal</span>
+                </div>
+
+                <div class="col-md-4" id="mb">
+                    <input name="payment" id="radio3" class="mr-2 css-checkbox" type="radio" value="mbanking" <?php echo ($payment == 'mbanking') ? 'checked' : ''; ?>> <span>MBanking</span>
+                    <p>Platite putem mobilne aplikacije vaše banke</p>
+                </div>
+
+            </div>
+
+            <span class="error"><?php echo $payment_err; ?></span>
+            <input name="checkboxG2" type="checkbox" required> I accept the <a href="#">terms & conditions</a>
+
+        </div>
+
+        <button type="submit" class="btn btn-checkout">Izvršite plaćanje</button>
+
+    </form>
+</div>
+
+
 <?php loadPartial('footer'); ?>
 <script src="public/js/script.js"></script>
 </body>

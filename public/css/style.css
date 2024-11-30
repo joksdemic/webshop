@@ -786,3 +786,13 @@ select.form-control {
   font-weight: bold;
   font-size: 18px;
 }
+
+/*THANK YOU*/
+.container-thankyou {
+  background: linear-gradient(to top left, #d6e1e3, #f1f1f7);
+}
+
+.container-thankyou img {
+  height: 512px;
+  width: 100%;
+}

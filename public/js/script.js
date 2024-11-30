@@ -152,6 +152,28 @@ document.getElementById('formBtn').addEventListener('click', function(event) {
     alert('Forma je uspešno poslata!');
 });
 
+//COUNTRY CALLING CODES VALIDATION - contact.php
+const countryCodeSelect = document.getElementById('countryCode');
+const phoneNumberInput = document.getElementById('phoneNumber');
+
+if (countryCodeSelect && phoneNumberInput) {
+    countryCodeSelect.addEventListener('change', updatePhoneNumber);
+
+    function updatePhoneNumber() {
+        const selectedCountryCode = countryCodeSelect.value;
+        const phoneNumber = phoneNumberInput.value.replace(/^\+?\d*/, '');
+
+        phoneNumberInput.value = selectedCountryCode + phoneNumber;
+    }
+
+    phoneNumberInput.addEventListener('input', function() {
+        const selectedCountryCode = countryCodeSelect.value;
+        if (!phoneNumberInput.value.startsWith(selectedCountryCode)) {
+            updatePhoneNumber(); 
+        }
+    });
+}
+
 
 
 

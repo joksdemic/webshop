@@ -174,6 +174,13 @@ if (countryCodeSelect && phoneNumberInput) {
     });
 }
 
+//SOUND FOR thankYou.php
+window.onload = function() {
+    var audio = document.getElementById("thankyou-sound");
+    audio.play(); 
+};
+
+
 
 
 

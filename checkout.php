@@ -3,7 +3,6 @@ require_once 'C:\\xampp\\htdocs\\webshop\\helpers.php';
 
 loadPartial('head'); 
 loadPartial('navbar'); 
-loadPartial('scroll'); 
 
 session_start();
 
@@ -101,23 +100,23 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
 
     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
-        
+
         <div class="row">
 
             <div class="col-md-6">
-                <label class="name">Ime*</label>
+                <label class="name">Ime<b style="color: red;"> *</b></label>
                 <input class="form-control" type="text" id="name" name="name" value="<?php echo $name; ?>">
                 <span class="error"><?php echo $name_err; ?></span>
             </div>
 
             <div class="col-md-6">
-                <label>Prezime*</label>
+                <label>Prezime<b style="color: red;"> *</b></label>
                 <input class="form-control" type="text" name="lastname" value="<?php echo $lastname; ?>">
                 <span class="error"><?php echo $lastname_err; ?></span>
             </div>
 
             <div class="col-md-6">
-                <label>Email*</label>
+                <label>Email<b style="color: red;"> *</b></label>
                 <input class="form-control" type="text" name="email" value="<?php echo $email; ?>">
                 <span class="error"><?php echo $email_err; ?></span>
             </div>
@@ -127,7 +126,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="row">
 
             <div class="col-md-6">
-                <label>Država*</label>
+                <label>Država <b style="color: red;"> *</b></label>
                 <select class="form-control" name="country">
                     <option value="">Izaberite državu</option>
                     <option value="AF">Afganistan</option>
@@ -138,7 +137,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
 
             <div class="col-md-6">
-                <label>Grad*</label>
+                <label>Grad <b style="color: red;">*</b></label>
                 <input class="form-control" type="text" name="city" value="<?php echo $city; ?>">
                 <span class="error"><?php echo $city_err; ?></span>
             </div>
@@ -148,7 +147,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="row">
 
             <div class="col-md-6" id="postal">
-                <label>Poštanski broj*</label>
+                <label>Poštanski broj <b style="color: red;">*</b></label>
                 <input class="form-control" type="text" name="zip" value="<?php echo $zip; ?>">
                 <span class="error"><?php echo $zip_err; ?></span>
 
@@ -156,7 +155,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <div class="col-md-6" id="adress">
 
-                <label>Adresa*</label>
+                <label>Adresa <b style="color: red;">*</b></label>
                 <input class="form-control" type="text" name="address" value="<?php echo $address; ?>">
                 <span class="error"><?php echo $address_err; ?></span>
 

@@ -98,6 +98,59 @@ const contentBoxes = document.querySelectorAll('.content-box');
         }
     });
 
+//FORM VALIDATION - contact.php
+document.getElementById('formBtn').addEventListener('click', function(event) {
+    event.preventDefault(); 
+
+    const firstName = document.querySelector('[placeholder="Ime"]').value;
+    const lastName = document.querySelector('[placeholder="Prezime"]').value;
+    const email = document.querySelector('[placeholder="email@gmail.com"]').value;
+    const phoneNumber = document.getElementById('phoneNumber').value;
+    const message = document.querySelector('[placeholder="..."]').value;
+
+    const nameRegex = /^[A-Za-z\s]+$/; 
+    const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+    const phoneRegex = /^[\d\s\+\(\)-]+$/; 
+
+    if (!nameRegex.test(firstName)) {
+        alert('Ime moze sadrzati samo slova');
+        return;
+    }
+
+    if (!nameRegex.test(lastName)) {
+        alert('Prezime moze sadrzati samo slova.');
+        return;
+    }
+
+    if (!emailRegex.test(email)) {
+        alert('Molimo unesite email u ispravnom formatu.');
+        return;
+    }
+
+    const cleanedPhoneNumber = phoneNumber.replace(/[^\d]/g, '');
+
+    if (!phoneRegex.test(phoneNumber)) {
+        alert('Broj telefona nije validan! Molimo unesite validan broj.');
+        return;
+    }
+
+    if (cleanedPhoneNumber.length < 10 || cleanedPhoneNumber.length > 11) {
+        alert('Broj telefona mora imati između 10 i 11 cifara!');
+        return;
+    }
+
+    if (message.trim() === '') {
+        alert('Poruka ne sme biti prazna!');
+        return;
+    }
+
+    if (message.length > 50) {
+        alert('Poruka ne sme imati više od 50 karaktera!');
+        return;
+    }
+
+    alert('Forma je uspešno poslata!');
+});
 
 
 
